@@ -1,0 +1,22 @@
+{
+  "name": "heart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "work.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascoupez/heart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucascoupez/heart/issues"
+  },
+  "homepage": "https://github.com/lucascoupez/heart#readme",
+  "dependencies": {
+    "easy-date": "^1.0.0"
+  }
+}
